@@ -1,0 +1,29 @@
+baseURL : 'http://example.org/'
+languageCode : 'en-us'
+title : 'Liam Wilson'
+theme : PaperMod
+
+params:
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: I am a fourth-year computer science student at University of Otago.
+  socialIcons:
+    - name: github
+      url: "https://github.com/liwilson1"
+    - name: kaggle
+      url: "https://kaggle.com/liamwkaggle"
+menu:
+  main:
+    - identifier: categories
+      name: projects
+      url: /projects/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: example.org
+      url: https://example.org
+      weight: 30
