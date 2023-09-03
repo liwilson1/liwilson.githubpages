@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Timeline on Liam Wilson</title>
+    <link>http://example.org/timeline/</link>
+    <description>Recent content in Timeline on Liam Wilson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Sep 2023 14:21:40 +1200</lastBuildDate><atom:link href="http://example.org/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023</title>
+      <link>http://example.org/timeline/2023/</link>
+      <pubDate>Sat, 02 Sep 2023 14:21:40 +1200</pubDate>
+      
+      <guid>http://example.org/timeline/2023/</guid>
+      <description>Semester 1 COSC420: Deep Learning COSC431: Information Retrieval Semester 2 COSC412: Advanced Cryptography and Security COSC450: Computer Vision and Graphics Full Year COSC490: Honours Project </description>
+    </item>
+    
+    <item>
+      <title>2022</title>
+      <link>http://example.org/timeline/2022/</link>
+      <pubDate>Sat, 02 Sep 2023 14:21:38 +1200</pubDate>
+      
+      <guid>http://example.org/timeline/2022/</guid>
+      <description>Semester 1 COSC326: Computational Problem Solving COSC342: Visual Computing: Graphics and Vision INFO203: HCI and UX Semester 2 COSC341: Theory of Computing COSC343: Artifical Intelligence COSC349: Cloud Computing Architecture </description>
+    </item>
+    
+    <item>
+      <title>2021</title>
+      <link>http://example.org/timeline/2021/</link>
+      <pubDate>Thu, 02 Sep 2021 14:01:10 +1200</pubDate>
+      
+      <guid>http://example.org/timeline/2021/</guid>
+      <description>Semester 1 COSC241: Programming and Problem Solving COSC243: Computer Architecture and Problem Solving PYSC111: Brain and Behaviour Semester 2 COSC212: Web Application Development COSC242: Algorithms and Data Structures COSC244: Data-communications, Networks, and the Internet INFO202: Developing Information Systems 2 </description>
+    </item>
+    
+    <item>
+      <title>2020</title>
+      <link>http://example.org/timeline/2020/</link>
+      <pubDate>Thu, 01 Jan 1970 13:33:40 +1300</pubDate>
+      
+      <guid>http://example.org/timeline/2020/</guid>
+      <description>Semester 1 COMP101: Foundations of Information Systems COMP150: Practical Programming MATH160: Mathematics 1 Semester 2 COMP160: General Programming ENGL127: Effective Writing MANT101: Managing for Performance MATH170: Mathematics 2 </description>
+    </item>
+    
+  </channel>
+</rss>
