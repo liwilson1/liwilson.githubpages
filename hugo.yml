@@ -11,7 +11,7 @@ params:
     apple_touch_icon:  "apple-touch-icon.png"
   homeInfoParams:
     Title: "Kia ora \U0001F44B"
-    Content: I am a fourth-year computer science student at University of Otago.
+    Content: Software Engineer, philosopher, thinker, do-er
   socialIcons:
     - name: github
       url: "https://github.com/liwilson1"
@@ -29,7 +29,11 @@ menu:
       name: posts
       url: /posts/
       weight: 10
-    - identifier: timeline
-      name: timeline
-      url: /timeline/
+    - identifier: spotify
+      name: spotify game
+      url: /spotify/
       weight: 20
+    # - identifier: timeline
+    #   name: timeline
+    #   url: /timeline/
+    #   weight: 20
