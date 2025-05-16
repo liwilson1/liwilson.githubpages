@@ -2,30 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Liam Wilson</title>
-    <link>http://example.org/posts/</link>
+    <link>http://localhost/posts/</link>
     <description>Recent content in Posts on Liam Wilson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 14:35:42 +1200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Aug 2023 14:35:42 +1200</lastBuildDate><atom:link href="http://localhost/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zero-Out Attack on VGG-16 Image Classification</title>
-      <link>http://example.org/posts/zerooutattack/</link>
+      <link>http://localhost/posts/zerooutattack/</link>
       <pubDate>Thu, 31 Aug 2023 14:35:42 +1200</pubDate>
       
-      <guid>http://example.org/posts/zerooutattack/</guid>
+      <guid>http://localhost/posts/zerooutattack/</guid>
       <description>Glossary Image classification Image classification is the task of assigning an input image one label from a fixed set of categories.
 Transfer learning Transfer learning is a machine learning technique where a model trained on one task is re-purposed on a second related task. It is a popular approach for image classification as there are many pre-trained models available for use.
 VGG-16 VGG-16 is a convolutional neural network architecture that was the runner-up in the ImageNet Large Scale Visual Recognition Challenge 2014.</description>
-    </item>
-    
-    <item>
-      <title>Noteboard - An express.js app for keeping notes</title>
-      <link>http://example.org/posts/noteboard/</link>
-      <pubDate>Wed, 15 Feb 2023 14:28:00 +1200</pubDate>
-      
-      <guid>http://example.org/posts/noteboard/</guid>
-      <description>A simple Node.js, MySQL, and Express app that can create, edit, and delete notes.
-View on GitHub</description>
     </item>
     
   </channel>
